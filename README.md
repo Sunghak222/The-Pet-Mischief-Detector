@@ -1,4 +1,5 @@
 # The Pet Mischief Detector
+<img width="640" height="480" alt="000000169197" src="https://github.com/user-attachments/assets/142ccdc2-2ec4-48ae-b2df-bf1d89e6d192" />
 
 A pet mischief detection system using YOLOv11 object detection, Depth Anything V2 monocular depth estimation, and an optional Hybrid CNN+GNN risk classifier.
 
